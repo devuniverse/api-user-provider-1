@@ -1,5 +1,5 @@
 {
-    "name": "cesg/api-user-provider",
+    "name": "devuniverse/api-user-provider-1",
     "description": "Laravel UserProvider over rest api",
     "type": "library",
     "license": "MIT",
